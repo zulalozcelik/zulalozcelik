@@ -7,7 +7,7 @@
 - 📝 I occasionally write articles about software and tech
 - 💬 Ask me about **C#**, **.NET**, **HTML/CSS**, and **Software Development**
 - 📫 How to reach me: **zulal.ozceliks@gmail.com**
-- 📄 Learn more about my experiences on [LinkedIn](#)
+- 📄 Learn more about my experiences on [[LinkedIn](https://www.linkedin.com/in/z%C3%BClal-%C3%B6z%C3%A7elik-16a964261/)](#)
 
 ---
 
