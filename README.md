@@ -4,7 +4,6 @@
 - 🎓 I’m currently studying **Computer Engineering** at **Üsküdar University**  
 - 💻 I’m also a **Software Developer Intern** at **Acunmedya Akademi**
 - 🌱 I’m currently improving my skills in **.NET, C#, and Web Development**
-- 📝 I occasionally write articles about software and tech
 - 💬 Ask me about **C#**, **.NET**, **HTML/CSS**, and **Software Development**
 - 📫 How to reach me: **zulal.ozceliks@gmail.com**
 - 📄 Learn more about my experiences on [[LinkedIn](https://www.linkedin.com/in/z%C3%BClal-%C3%B6z%C3%A7elik-16a964261/)](#)
