@@ -11,13 +11,6 @@
 
 ---
 
-### Connect with me:
-<p align="left">
-  <a href="https://github.com/zulalozcelik" target="blank"><img src="https://img.shields.io/github/followers/zulalozcelik?label=Follow&style=social" alt="github" /></a>
-  <a href="[https://linkedin.com/in/yourlinkedinusername](https://www.linkedin.com/in/z%C3%BClal-%C3%B6z%C3%A7elik-16a964261/)" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-</p>
-
----
 
 ### Languages and Tools:
 <p align="left">
